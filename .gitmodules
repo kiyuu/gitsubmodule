@@ -1,0 +1,3 @@
+[submodule "Application/Source/Framework"]
+	path = Application/Source/Framework
+	url = https://github.com/okutani-t/hello.git
